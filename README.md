@@ -1,8 +1,3 @@
-Ben Mikailenko
-ben.mikailenko@wsu.edu
-
-CS 427
-Project 1
 WSU Crypt
 
 Program encrypts or decrypts text files using the TwoFish algorithm
