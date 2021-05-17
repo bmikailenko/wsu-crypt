@@ -3,6 +3,7 @@ WSU Crypt
 Program encrypts or decrypts text files using the TwoFish algorithm
 
 Files:
+	
 	bitStream.c - c code for handling input/output of bits
 	wsu-crypt.c - c code for interface 
 	decode.c    - c code for decrypting
@@ -13,9 +14,11 @@ Files:
 	wsu-crypt   - executable file for program
 
 To compile:
+	
 	make
 
 To clean:
+	
 	make clean
 
 To run:
